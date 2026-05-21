@@ -27,6 +27,9 @@ main.tsx
 prd_template.docx
 vite-env.d.ts
 
+# Trae IDE files
+.trae/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
