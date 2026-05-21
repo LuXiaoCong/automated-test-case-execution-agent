@@ -12,6 +12,13 @@ dist
 dist-ssr
 *.local
 
+# Compiled JavaScript files
+*.js
+!*.config.js
+!*.config.mjs
+server/api/*.js
+server/*.js
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
