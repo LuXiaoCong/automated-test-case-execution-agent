@@ -19,6 +19,14 @@ dist-ssr
 server/api/*.js
 server/*.js
 
+# Root level duplicate files
+App.tsx
+App_bak.tsx
+index.css
+main.tsx
+prd_template.docx
+vite-env.d.ts
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
